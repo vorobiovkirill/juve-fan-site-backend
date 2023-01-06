@@ -17,13 +17,16 @@
       "required": true
     },
     "writtenBy": {
-      "type": "string"
+      "type": "string",
+      "required": true
     },
     "imageUrl": {
-      "type": "string"
+      "type": "string",
+      "required": true
     },
     "body": {
-      "type": "richtext"
+      "type": "richtext",
+      "required": true
     },
     "slug": {
       "type": "uid",
