@@ -19,6 +19,18 @@
     },
     "description": {
       "type": "string"
+    },
+    "feedTitle": {
+      "type": "string",
+      "required": true
+    },
+    "standingsTitle": {
+      "type": "string",
+      "required": true
+    },
+    "topScoresTitle": {
+      "type": "string",
+      "required": true
     }
   }
 }
